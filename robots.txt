@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://israt76.github.io/mipodis/sitemap.xml
